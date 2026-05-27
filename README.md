@@ -92,7 +92,7 @@ client.connect(server, 80);   // Connect to ThingSpeak
 **Himanshu Kumar**
 Sharda University
 B.Tech Engineering Student
-
+https://www.linkedin.com/in/himanshu-kumar-3b76943a4?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
 ##  Presentation
